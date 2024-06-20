@@ -10,6 +10,9 @@
 # incubator: The Carpentries Incubator
 carpentry: 'incubator'
 
+# Add value for CMS customized "varnish"
+varnish: 'cms-opendata-workshop/varnish'
+
 # Overall title for pages.
 title: 'Lesson Title' # FIXME
 
